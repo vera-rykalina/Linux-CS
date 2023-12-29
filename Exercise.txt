@@ -12,6 +12,9 @@ https://plum-poppy-0ea.notion.site/Making-Files-And-Folders-Exercise-5da482693b3
 # Nano
 https://plum-poppy-0ea.notion.site/Nano-Exercise-a6daa37a53bd4b749f3c8f085936fc74
 
+# Gatsby
+http://gutenberg.net.au/ebooks02/0200041h.html
+
 # Deleting, Moving, and Copying
 https://plum-poppy-0ea.notion.site/Deleting-Moving-Copying-Exercise-90384060a2444b88bef15f052dd6b721
 
