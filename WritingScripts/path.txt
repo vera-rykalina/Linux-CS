@@ -1,0 +1,7 @@
+# How to add a script to the path to make it executable
+
+1. Create a bin/ directory
+2. Move your script there
+3. PATH="$HOME/bin:$PATH" (insted of $PATH rest of the path to the folder)
+4. source .bashrc (to update)
+5. chmod +x hi.sh
